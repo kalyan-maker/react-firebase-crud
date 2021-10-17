@@ -43,7 +43,7 @@ export const Crud = () => {
     };
 
     getUsers();
-  }, []);
+  }, [usersCollectionRef]);
 
   return (
     <div className="crud1">

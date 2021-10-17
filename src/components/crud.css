@@ -1,0 +1,9 @@
+.crud1 {
+  display: grid;
+  grid-gap: 5px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+  background-color: aliceblue;
+}
